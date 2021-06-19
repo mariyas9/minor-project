@@ -1,2 +1,2 @@
-# minor-project
+# mini-project
 This contain my first minor project in data science.
